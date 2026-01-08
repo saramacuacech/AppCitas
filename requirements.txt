@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+gunicorn
+flet
+requests
+phonenumbers
+httpx
+sqlalchemy
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
